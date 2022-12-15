@@ -1,0 +1,15 @@
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/helo
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/helo.deps.json
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/helo.runtimeconfig.json
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/helo.dll
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/ref/helo.dll
+/home/noel/prog2/Csharp/1gyak/helo/bin/Debug/net6.0/helo.pdb
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.csproj.AssemblyReference.cache
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.GeneratedMSBuildEditorConfig.editorconfig
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.AssemblyInfoInputs.cache
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.AssemblyInfo.cs
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.csproj.CoreCompileInputs.cache
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.dll
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/ref/helo.dll
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.pdb
+/home/noel/prog2/Csharp/1gyak/helo/obj/Debug/net6.0/helo.genruntimeconfig.cache
