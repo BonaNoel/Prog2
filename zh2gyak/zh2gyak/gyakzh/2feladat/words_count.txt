@@ -1,0 +1,7 @@
+kifli 2
+pohar 2
+hus 1
+tej 1
+kutya 3
+cica 3
+sajt 3
